@@ -19,8 +19,6 @@ bundle exec jekyll serve
 ```
 
 #### References
-Using jekyll with bundler: https://jekyllrb.com/tutorials/using-jekyll-with-bundler/
+[Using jekyll with bundler](https://jekyllrb.com/tutorials/using-jekyll-with-bundler/)
 
-Creating a GitHub Pages site with Jekyll: https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll
-
-
+[Creating a GitHub Pages site with Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll)
